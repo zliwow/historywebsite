@@ -4,9 +4,7 @@ The site was created to practice my HTML/CSS/JavaScript skill. The contents on t
 
 Here are some screen shots from the site:
 
-![example1](readme img/landing page.png)
-![example2](readme img/product page.png)
-![example3](readme img/shopping cart.png)
-![example4](readme img/payment.png)
+![example1](examples/eg1.png)
+![example2](examples/eg2.png)
 
 If you would like to visit the site, you may see it here in https://andrew-history-site.netlify.app/
